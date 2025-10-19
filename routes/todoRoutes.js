@@ -27,12 +27,6 @@ const router = express.Router();
  *         - title
  *         - dueDate
  *       properties:
- *         id:
- *           type: string
- *           description: Auto-generated ID of the todo
- *         user:
- *           type: string
- *           description: ID of the user who created the todo
  *         title:
  *           type: string
  *           description: Title of the todo task
