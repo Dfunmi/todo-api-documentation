@@ -12,7 +12,7 @@ const options = {
     servers: [
       {
         url: process.env.NODE_ENV === "production"
-      ? "https://todo-api-documentation.onrender.com"
+      ? "https://todo-api-documentation.onrender.com/api"
       : "http://localhost:5000/api",
       },
     ],
