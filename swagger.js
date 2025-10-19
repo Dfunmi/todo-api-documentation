@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://todo-api-documentation.onrender.com/api-docs/",
+        url: "https://todo-api-documentation.onrender.com/",
       },
     ],
     
